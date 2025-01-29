@@ -14,7 +14,7 @@ from keras.preprocessing.image import ImageDataGenerator, array_to_img, img_to_a
 #        zoom_range=0.2,
 #        horizontal_flip=True,
 #        fill_mode='nearest')
-#img = load_img('DEVAKI.jpg')  # this is a PIL image
+#img = load_img('image_file.jpg')  # this is a PIL image
 #x = img_to_array(img)  # this is a Numpy array with shape (300, 300, 3)
 #x = x.reshape((1,) + x.shape)  # this is a Numpy array with shape (1, 300, 300, 3)
 #x.shape
