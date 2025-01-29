@@ -5,6 +5,9 @@ This project was completed in 2020.
 
 # Image Classification Using Convolutional Neural Networks (CNN)
 
+##Motivation
+The inspiration for this project, Calcification of Polyp Identification, comes from the need to improve medical diagnostics. Polyps can vary in texture, with calcification being a key indicator of potential health concerns. Traditional ultrasound scans can detect polyps but do not analyze their texture effectively. By leveraging deep learning and image processing techniques, this project aims to automate the classification of polyps based on their calcification, assisting in early diagnosis and better medical decision-making.
+
 ## Abstract
 This project focuses on binary classification of images using a Convolutional Neural Network (CNN). The model is trained to distinguish between two classes based on features extracted through multiple convolutional layers. The training process incorporates image augmentation techniques to enhance generalization and prevent overfitting. 
 
